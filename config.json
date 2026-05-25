@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersncrypt",
+        "uuid": 3161514,
+        "checksum": "8amxa"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
